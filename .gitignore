@@ -1,5 +1,2 @@
-# Ignorar el archivo requirements.txt
-requirements.txt
-
 # Ignorar la carpeta myenv y todo su contenido
 myenv/
