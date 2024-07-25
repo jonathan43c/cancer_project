@@ -1,2 +1,5 @@
 # Ignorar la carpeta myenv y todo su contenido
 myenv/
+venv/
+data/train/
+data/validation/
