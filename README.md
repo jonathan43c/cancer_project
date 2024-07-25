@@ -14,18 +14,11 @@ PROYECTO CANCER/
 │   ├── validation/         # Datos de validación
 │   │   ├── melanoma/
 │   │   ├── no_melanoma/
-│   └── data.csv            # Archivo CSV con las rutas y etiquetas
-├── models/                 # Guardar modelos entrenados
-│   ├── melanoma_model.h5
-├── notebooks/              # Notebooks para experimentación y análisis
-│   ├── EDA.ipynb
-│   ├── training.ipynb
-├── scripts/                # Scripts de Python
-│   ├── preprocess.py       # Preprocesamiento de imágenes
-│   ├── train.py            # Entrenamiento del modelo
-│   ├── evaluate.py         # Evaluación del modelo
-│   └── predict.py          # Predicciones con el modelo
-├── uploads/                # Carpeta para guardar las imágenes subidas
-├── app.py                  # API con Flask
+│   └── data.csv            # Archivo CSV con las rutas y 
+├── scripts/               # Scripts de Python
+│   ├── modelo A.py        # Entrenamiento del modelo a
+│   ├── modelo B.py        # Entrenamiento del modelo b
+│   ├── modelo C.py        # Entrenamiento del modelo c
+│   └── modelo D.py        # Entrenamiento del modelo d
 ├── requirements.txt        # Lista de dependencias
 └── README.md               # Documentación del proyecto
